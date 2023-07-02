@@ -7,3 +7,5 @@ with the .env file to be used by react.
 
 I wanted to make this a larger more secure app so I added a 
 node backend that would take in requests from the frontend.
+I also decided to try out vite instead of my usual create-react-app.
+Let's see how this goes.
